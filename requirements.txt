@@ -1,7 +1,7 @@
 g4f
 setuptools==69.2.0
 wheel==0.38.4
-requests==2.31.0
+requests==2.32.2
 moviepy==1.0.3
 termcolor==2.4.0
 flask==3.0.0
